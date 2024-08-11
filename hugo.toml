@@ -1,3 +1,28 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://eyrama.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Eyram's blog"
+theme = 'mini'
+paginate = 10
+enableRobotsTXT = true
+
+[permalinks]
+  posts = '/posts/:title/'
+
+[params]
+  author = 'Eyram Agbe'
+  bio = 'Researcher'
+  showToc = false
+  mainSections = ['posts']
+  enableRSS = false
+  enableComments = false
+  enableGoogleAnalytics = false
+  customCSS = ['/css/custom.css']
+  showPowerBy = false
+  hiddenPostSummaryInHomePage = false
+
+  # [[params.links]]
+  # name = "算法"
+  # path = "/xiaohe-blog/algorithm"
+
+
+
