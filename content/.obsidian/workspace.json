@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "656793dfa7dd9010",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7c163a9a838dd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b086929a8f52a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/may-2024-reading-list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e22f5487df85428",
+    "type": "split",
+    "children": [
+      {
+        "id": "64829f65aac3674e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50154c89b37aa1c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4843a389e9c65aa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc7e5505a7127275",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5d18f7285c29e68",
+    "type": "split",
+    "children": [
+      {
+        "id": "5483cb148318a450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6558c31aecd50965",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/may-2024-reading-list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d39b1814682516da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/may-2024-reading-list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed706b3fe75cc261",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffc63b70b9903979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/may-2024-reading-list.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "44b086929a8f52a7",
+  "lastOpenFiles": [
+    "posts/my-first-post.md",
+    "posts/may-2024-reading-list.md",
+    "posts/april-2024-reading-list.md",
+    "posts/pilot.md",
+    "about/_index.md"
+  ]
+}
